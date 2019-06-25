@@ -21,7 +21,7 @@ public class liste {
 		System.out.println("Tableau trié\n"); // afficher tous les entiers en ordre croissant
 		for (int i = array.length-1 ; i > -1; i--) {
 			System.out.println("nombre: " + array[i]);
-
 		}
+		System.out.println("au revoir");
 	}
 }
